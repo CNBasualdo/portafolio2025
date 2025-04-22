@@ -1,0 +1,9 @@
+.Principal{
+    text-align: center;
+    justify-content: center;
+}
+
+.portada{
+    justify-content: space-around;
+    align-items: center;
+}

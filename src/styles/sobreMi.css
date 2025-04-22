@@ -1,0 +1,36 @@
+.sobremi{
+    background-color:  rgb(30, 34, 43);
+    color: white;
+    padding: 20px;
+
+    
+}
+.contenido{
+    padding: 5px;
+    border: 2px solid;
+    border-color: green;
+    border-radius: 1%;
+    
+}
+.contenido h1{
+    margin: 25px;
+}
+.objetos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.descripcion{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icono{
+    width:15%;
+    height: 15%;
+    padding: 2px;
+    background-color:rgb(38, 42, 51);
+    border-radius: 20%;
+    margin: 5px;
+}

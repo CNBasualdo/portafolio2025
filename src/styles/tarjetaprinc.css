@@ -1,0 +1,23 @@
+.tarjetero{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(30, 34, 43);
+}
+
+.card{
+    width:  35%;
+    color: white;
+    background-color:rgb(38, 42, 51);
+    align-items: center;
+    display: flex;
+    margin: 1.0rem;
+    border: solid 2px;
+    border-color: green;
+}
+
+.card-img-top{
+    height: 55%;
+    width: 50%;
+    border-radius: 50%;
+    margin: 1rem;
+}
